@@ -1,0 +1,6 @@
+framework module Pods_BHS_AdminTests {
+  umbrella header "Pods-BHS-AdminTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

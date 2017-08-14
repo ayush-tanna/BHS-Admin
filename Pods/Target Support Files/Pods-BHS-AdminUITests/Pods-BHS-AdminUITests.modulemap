@@ -1,0 +1,6 @@
+framework module Pods_BHS_AdminUITests {
+  umbrella header "Pods-BHS-AdminUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
